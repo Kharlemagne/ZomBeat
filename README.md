@@ -2,7 +2,7 @@
 
 A tiny browser game where every sound is part of the song. Your skull dude fights on its own, so all you do is run.
 
-**[▶ Play it here](https://kharlemagne.github.io/zombeat/)**
+**[▶ Play it here](https://kharlemagne.github.io/ZomBeat/)**
 
 ![ZomBeat title screen](assets/title.png) ![ZomBeat gameplay](assets/gameplay.png)
 
